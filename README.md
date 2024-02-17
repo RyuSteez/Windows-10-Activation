@@ -1,4 +1,4 @@
-# Windows-10-KMS-Activation
+# Windows-10-Activation
 
 This Windows Activation Script automates the process of activating Windows on a PC. It provides a user-friendly interface for selecting the Windows edition to activate and handles the activation process automatically. The script supports various editions of Windows, including Home, Professional, Education, and Enterprise.
 
